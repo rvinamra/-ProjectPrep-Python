@@ -1,2 +1,2 @@
-# SummerProjectPrep
-Consists of various programs made to learn stuff regarding Summer Project
+# ProjectPrep-Python
+Consists of various python programs made to learn stuff regarding Summer Project
